@@ -32,7 +32,7 @@ Software Engineer based in London 🇬🇧
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Avadakedvr&count_private=true&show_icons=true&hide_border=true&custom_title=Stats" alt="Avadakedvr's GitHub stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avadakedvr&langs_count=8&count_private=true&hide_border=true" alt="Top Langs" /></a>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Avadakedvr&theme=minimal" />
+<img src="https://activity-graph.herokuapp.com/graph?username=Avadakedvr&theme=minimal&custom_title=Contribution%20Graph" />
 
 <!---
 Avadakedvr/Avadakedvr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
