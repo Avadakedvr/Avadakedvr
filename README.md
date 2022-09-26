@@ -2,7 +2,11 @@
 
 Software Engineer based in London 🇬🇧
 
-<strong>Social:</strong>
+<details>
+  <summary>Show more</summary>
+  <p></p>
+  
+  <strong>Social:</strong>
 
 <code><a target="_blank" href="https://www.linkedin.com/in/dbivol/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></code>
 
@@ -24,6 +28,7 @@ Software Engineer based in London 🇬🇧
 <code><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></code>
+ </details>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Avadakedvr&count_private=true&show_icons=true&hide_border=true&custom_title=Stats" alt="Avadakedvr's GitHub stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avadakedvr&langs_count=8&count_private=true&hide_border=true" alt="Top Langs" /></a>
 
