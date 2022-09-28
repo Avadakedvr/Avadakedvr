@@ -1,6 +1,6 @@
 # Hi there, I'm Denis.
 
-Software Engineer based in London 🇬🇧
+Software Engineer / Consultant [@InfinityWorks](https://www.infinityworks.com/). Based in London 🇬🇧
 
 <details>
   <summary>Show more</summary>
