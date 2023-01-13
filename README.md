@@ -1,7 +1,7 @@
 # Hi there, I'm Denis.
 
 Software Engineer / Consultant [@InfinityWorks](https://www.infinityworks.com/). Based in London 🇬🇧
-
+<!-- 
 <details>
   <summary>Show more</summary>
   <p></p>
@@ -34,8 +34,5 @@ Software Engineer / Consultant [@InfinityWorks](https://www.infinityworks.com/).
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Avadakedvr&theme=minimal&custom_title=Contribution%20Graph" />
 
-<!---
-Avadakedvr/Avadakedvr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ -->
 
