@@ -1,6 +1,6 @@
 # Hi there, I'm Denis.
 
-Software Engineer / Consultant [@albelli-Photobox Group](photobox.co.uk/). Based in London 🇬🇧
+Software Engineer [@albelli-Photobox Group](photobox.co.uk/). Based in London 🇬🇧
 <!-- 
 <details>
   <summary>Show more</summary>
