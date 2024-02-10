@@ -1,6 +1,6 @@
 # Hi there, I'm Denis.
 
-Software Engineer [Storio Group](https://www.linkedin.com/company/storiogroup/). Based in London 🇬🇧
+Software Engineer [@Storio Group](https://www.linkedin.com/company/storiogroup/). Based in London 🇬🇧
 <!-- 
 <details>
   <summary>Show more</summary>
